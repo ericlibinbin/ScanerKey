@@ -1,0 +1,5 @@
+G:\联友公司项目\WPF\MedicalWorkZone\ScanerHookKey\ScanerHookKey\bin\Debug\ScanerHookKey.dll
+G:\联友公司项目\WPF\MedicalWorkZone\ScanerHookKey\ScanerHookKey\bin\Debug\ScanerHookKey.pdb
+G:\联友公司项目\WPF\MedicalWorkZone\ScanerHookKey\ScanerHookKey\obj\Debug\ScanerHookKey.csprojResolveAssemblyReference.cache
+G:\联友公司项目\WPF\MedicalWorkZone\ScanerHookKey\ScanerHookKey\obj\Debug\ScanerHookKey.dll
+G:\联友公司项目\WPF\MedicalWorkZone\ScanerHookKey\ScanerHookKey\obj\Debug\ScanerHookKey.pdb
